@@ -1,4 +1,5 @@
-module mp3_to_text
+// module mp3_to_text
+module github.com/Nonoyanping/mp3_to_text
 
 go 1.21.6
 
