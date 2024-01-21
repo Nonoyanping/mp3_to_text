@@ -3,7 +3,7 @@ package handlers
 
 import (
 	"github.com/gin-gonic/gin"
-	"mp3-to-text-webapp/services"
+	"github.com/Nonoyanping/mp3_to_text/services"
 	"net/http"
 )
 

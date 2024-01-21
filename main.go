@@ -2,9 +2,9 @@
 package main
 
 import (
-	"github.com/gin-gonic/gin"
 	"net/http"
-	"./handlers/"
+	"github.com/gin-gonic/gin"
+	"github.com/Nonoyanping/mp3_to_text/handlers"
 )
 
 func main() {

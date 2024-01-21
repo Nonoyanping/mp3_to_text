@@ -30,4 +30,7 @@ require (
 	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/protobuf v1.32.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
+
+	cloud.google.com/go/speech/apiv1 v0.67.0
+	google.golang.org/genproto v0.5.0
 )
