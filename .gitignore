@@ -1,0 +1,7 @@
+# .gitignore
+*.log
+*.out
+*.exe
+/uploads
+/vendor
+/.git
